@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=filnr" alt="filnr" /></a> </p>
 
-- 🔭 I’m currently working on [AED's 1](https://github.com/Filnr/AED_1)
+- 🔭 I’m currently working on [AED's 2]([https://github.com/Filnr/AEDs-2)]
 
-- 🌱 I’m currently learning **C programming, JavaScript (JS), and programming skills**
+- 🌱 I’m currently learning **C and Java programming, JavaScript (JS), and programming skills**
 
 - 📫 How to reach me **fineryrabelo@gmail.com**
 
